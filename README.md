@@ -59,5 +59,5 @@ You can find a comprehensive list of public APIs here:
 
 https://github.com/public-apis/public-apis
 
-There are APIs many with different types of data. Take some time to go through some of them and try calling them into your Postman client. Be careful to check if any request headers are required for Authentication for the ones you choose.
+There are APIs many with different types of data. Take some time to go through some of them and try calling them into your Postman client. Be careful to check if any request headers are required for Authentication for the ones you choose
 
